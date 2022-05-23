@@ -389,13 +389,9 @@ int pedirInformesViajes(eMicro vec[], int tam, eEmpresa empresas[], int tamE, eT
 {
     int todoOk = 0;
     char salir = 'n';
-    //int idEmpresa;
-    //int idTipo;
     int idMicro;
     int idDestino;
     eFecha fecha;
-    //char descEmpresa[21];
-    //char descTipo[21];
 
     do
     {
